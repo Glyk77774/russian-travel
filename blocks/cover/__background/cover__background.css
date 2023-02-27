@@ -41,12 +41,24 @@
 
 @media (max-width: 768px) {
   .cover__background {
-    min-height: 152px;
+   min-height: 480px;
+  }
+}
+
+@media (max-width: 540px) {
+  .cover__background {
+   min-height: 350px;
+  }
+}
+
+@media (max-width: 400px) {
+  .cover__background {
+   min-height: 250px;
   }
 }
 
 @media (max-width: 320px) {
   .cover__background {
-    min-height: 70px;
+    min-height: 200px;
   }
 }

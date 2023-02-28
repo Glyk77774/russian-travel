@@ -3,21 +3,22 @@
   flex-direction: column;
   align-items:flex-start;
   gap: 26px;
-  max-width: 484px;
   box-sizing: border-box;
 }
-@media screen and (max-width: 1024px) {
+
+@media (max-width: 1024px) {
   .place__paragraphs {
     max-width: 456px;
   }
 }
-@media screen and (max-width: 768px) {
+
+@media (max-width: 768px) {
   .place__paragraphs {
-    max-width: 352px;
     gap: 25px;
   }
 }
-@media screen and (max-width: 320px) {
+
+@media (max-width: 425px) {
   .place__paragraphs {
     padding: 0  16px 0 16px;
   }

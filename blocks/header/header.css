@@ -10,14 +10,12 @@
 
 @media (max-width: 768px) {
   .header {
-    align-items: center;
     width: calc(100% - 2 * 24px);
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .header {
-    align-items: center;
     width: calc(100% - 2 * 16px);
   }
 }

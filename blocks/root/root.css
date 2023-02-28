@@ -25,9 +25,8 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .root {
-    max-width: 320px;
     padding: 16px 0 24px;
   }
 }

@@ -11,14 +11,12 @@
 
 @media (max-width: 768px) {
   .intro {
-    margin-top: 88px;
     padding: 0 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .intro {
     padding: 0 16px;
-    margin-top: 64px;
   }
 } 

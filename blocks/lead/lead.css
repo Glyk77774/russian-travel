@@ -3,6 +3,7 @@
   margin: 56px auto 92px;
   display: flex;
   flex-direction: column;
+  max-width: 984px;
 }
 
 @media (max-width: 1280px) {
@@ -25,7 +26,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .lead {
     width: 100%;
     margin: 48px 0 64px;

@@ -8,11 +8,13 @@
     margin: 92px 0;
   }
 }
+
 @media (max-width: 768px) {
   .cover {
     margin: 90px 0 88px;
   }
 }
+
 @media (max-width: 664px) {
   .cover {
     margin: 66px 0 64px;
